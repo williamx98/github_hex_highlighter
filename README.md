@@ -9,8 +9,6 @@ Time spent: 1 hour
 <img src='https://github.com/williamx98/github_hex_highlighter/blob/master/demo.jpg' title='Demo picture' width='800' alt='Demo picture' />
 </p>
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
-
 ## License
 
     Copyright 2018 Will Xu
