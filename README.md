@@ -9,6 +9,19 @@ Time spent: 1 hour
 <img src='https://github.com/williamx98/github_hex_highlighter/blob/master/demo.jpg' title='Demo picture' width='800' alt='Demo picture' />
 </p>
 
+## Installation:
+
+To install this extension, clone this repo with:  
+```git clone [repo link]```    
+Then, in Chrome, go to:  
+```chrome://extensions```  
+In the top left corner of the window, select:  
+```Load unpacked```  
+<p float="left">
+<img src='https://github.com/williamx98/github_hex_highlighter/blob/master/install.png' title='Install picture' width='400' alt='Install picture' />
+</p>
+Then select the this repo's root directory (the folder made when this repo was cloned).  
+
 ## License
 
     Copyright 2018 Will Xu
